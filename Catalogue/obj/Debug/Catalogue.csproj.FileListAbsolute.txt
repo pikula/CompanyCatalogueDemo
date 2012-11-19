@@ -1,0 +1,95 @@
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Catalogue.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Catalogue.pdb
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Antlr3.Runtime.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\EntityFramework.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Microsoft.Data.Edm.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Microsoft.Data.OData.Contrib.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Microsoft.Data.OData.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Microsoft.Practices.Unity.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Newtonsoft.Json.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Net.Http.Formatting.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Spatial.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.Helpers.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.Http.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.Http.OData.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.Http.Tracing.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.Http.WebHost.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.Mvc.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.Optimization.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.Providers.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.Razor.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.WebPages.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.WebPages.Razor.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\WebGrease.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Microsoft.Data.Edm.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Microsoft.Data.OData.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Microsoft.Practices.Unity.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\Newtonsoft.Json.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Spatial.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\EntityFramework.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Net.Http.Formatting.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.Helpers.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.Http.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.Http.WebHost.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.Mvc.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.Razor.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.WebPages.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\bin\System.Web.WebPages.Razor.xml
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\obj\Debug\Catalogue.dll
+C:\Users\ace\Desktop\libusoft prijava\Catalogue\Catalogue\obj\Debug\Catalogue.pdb
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Catalogue.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Catalogue.pdb
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Antlr3.Runtime.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\EntityFramework.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Microsoft.Data.Edm.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Microsoft.Data.OData.Contrib.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Microsoft.Data.OData.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Microsoft.Practices.Unity.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Newtonsoft.Json.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Net.Http.Formatting.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Spatial.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.Helpers.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.Http.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.Http.OData.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.Http.Tracing.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.Http.WebHost.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.Mvc.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.Optimization.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.Providers.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.Razor.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.WebPages.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.WebPages.Razor.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\WebGrease.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Microsoft.Data.Edm.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Microsoft.Data.OData.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Microsoft.Practices.Unity.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\Newtonsoft.Json.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Spatial.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\EntityFramework.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Net.Http.Formatting.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.Helpers.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.Http.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.Http.WebHost.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.Mvc.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.Razor.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.WebPages.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\bin\System.Web.WebPages.Razor.xml
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\obj\Debug\Catalogue.csprojResolveAssemblyReference.cache
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\obj\Debug\Catalogue.dll
+C:\Users\ace\Desktop\zadaci\PGM\Catalogue\Catalogue\obj\Debug\Catalogue.pdb
