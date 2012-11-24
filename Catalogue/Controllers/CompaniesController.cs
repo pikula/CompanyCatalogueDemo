@@ -100,11 +100,5 @@ namespace Catalogue.Controllers
 
             return company;
         }
-
-        Uri GetCompanyLocation(int id)
-        {
-            var controller = this.Request.GetRouteData().Values["controller"];
-            return new Uri(this.Url.Link("DefaultApi", new { controller = controller, id = id }));
-        }
     }
 }
